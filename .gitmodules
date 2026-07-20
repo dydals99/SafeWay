@@ -1,3 +1,9 @@
 [submodule "pipline"]
 	path = pipline
 	url = https://github.com/dydals99/pipline.git
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/dydals99/front-end.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/dydals99/back-end.git
